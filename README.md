@@ -40,7 +40,7 @@
 
 </div>
 <br>
-
+<hr>
 <div align="center">
 
 ### Languages and Tools:
