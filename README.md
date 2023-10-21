@@ -1,11 +1,18 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
+<p align="center">
+    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/aryan2bamaner/count.svg" />
+</p>
+
+
+
 <p>
   <h1 align="center"><b>Hello there, I'm Aryan 👋</b></h1>
 </p>
 
 <p align="center">
 &nbsp;
+<a href="https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/tv-sai-sumanth-3b7811141/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:aryanbamane2@gmail.com?subject=Yo%Aryan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="aryan-bamane-portfolio.netlify.app"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
@@ -32,6 +39,7 @@
 ⚡ Fun fact: I love connecting with different people🙋🏽‍♂️
 
 </div>
+<br>
 
 <div align="center">
 
@@ -72,7 +80,13 @@
 
 </div>
 <br>
+<h1 align="center">Achievements</h1>
 
+<br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan2bamane" alt="aryan2bamane" /></a> </p>
+
+<br>
 <p>
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by giving Star 🌟 to some of the repositories!</h3>
