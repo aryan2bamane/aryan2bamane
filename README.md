@@ -67,12 +67,7 @@
 <br>
 
 ### ⚡ Github Stats
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aryan2bamane&theme=vision-friendly-dark)](https://git.io/streak-stats)
-
-//![GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan2bamane&show_icons=true&hide_border=true&theme=vision-friendly-dark)
-
-//![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan2bamane&show_icons=true&hide_border=true&theme=vision-friendly-dark)
 <br>
 
 </div>
