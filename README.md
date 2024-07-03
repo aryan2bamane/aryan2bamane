@@ -25,7 +25,7 @@
 
 👯 I’m looking to collaborate with other Developers.🫱🏽‍🫲🏽
 
-🥅 2023 Goals: Get myself a better Portfolio
+🥅 2024 Goals: Get myself a better Portfolio
 
 💬 Ask me about anything, I am happy to help 😁
 
