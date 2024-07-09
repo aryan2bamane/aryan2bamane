@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/aryan2bamane/count.svg" />
+    [<img align="center" alt="visitors" src="https://profile-counter.glitch.me/aryan2bamane/count.svg" />](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Faryan2bamane%2Faryan2bamane&label=Profile%20Visits&countColor=%231e1e1e)
 </p>
 
 <br>
