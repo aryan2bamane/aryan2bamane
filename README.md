@@ -14,9 +14,18 @@
 <a href="mailto:aryanbamane2@gmail.com?subject=Yo%Aryan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="aryan-bamane-portfolio.netlify.app"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 </p>
+<br>
 
+<h1 align="center"> Profile Visits </h1>
+
+<br>
+
+<p align="center">
+    <img align="center" alt="visitors" src="https://profile-counter.glitch.me/aryan2bamane/count.svg" />
+</p>
+
+<br>
 <div align="center">
-   [![HitCount](https://hits.dwyl.com/aryan2bamane/aryan2bamane.svg?style=flat-square)](http://hits.dwyl.com/aryan2bamane/aryan2bamane)
 
 ### I am a UG CSE student at DYPTC Kolhapur ⚡
 
