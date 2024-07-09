@@ -16,6 +16,7 @@
 </p>
 
 <div align="center">
+  [![HitCount](https://hits.dwyl.com/aryan2bamane/{project}.svg?style=flat-square)](http://hits.dwyl.com/aryan2bamane/)
 
 ### I am a UG CSE student at DYPTC Kolhapur ⚡
 
