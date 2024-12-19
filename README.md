@@ -1,8 +1,3 @@
-
-
-
-
-
 <p>
   <h1 align="center"><b>Hello there, I'm Aryan 👋</b></h1>
 </p>
@@ -25,6 +20,7 @@
 </p>
 
 <br>
+
 <div align="center">
 
 ### I am a UG CSE student at DYPTC Kolhapur ⚡
@@ -72,8 +68,8 @@
 <br>
 <br>
 
-
 ### ⚡ Github Stats
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aryan2bamane&theme=vision-friendly-dark)](https://git.io/streak-stats)
 <br>
 
@@ -91,5 +87,4 @@
 <h3 align="center">Show some &nbsp;❤️&nbsp; by giving Star 🌟 to some of the repositories!</h3>
 </p>
 
-[instagram]: https://instagram.com/the.cs.geek?igshid=1mamru7aa53b2
-[linkedin]: https://www.linkedin.com/in/aryan-bamane-811871229/
+<br><p align="center"><img src="./smilingKid.webp" height="100px" /></p>
