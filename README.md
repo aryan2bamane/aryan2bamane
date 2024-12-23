@@ -84,7 +84,7 @@
 <br>
 <p>
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by giving Star 🌟 to some of the repositories!</h3>
+<h3 align="center">Show some Support 🤝&nbsp; by giving Star 🌟 to some of the repositories!</h3>
 </p>
 
 <br><p align="center"><img src="./smilingKid.webp" height="100px" /></p>
