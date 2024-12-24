@@ -39,9 +39,17 @@ Here are some of the technologies and tools I work with:
 
 <h3 align="center">⚡ Github Stats ⚡</h3>
 
+
 ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan2bamane&show_icons=true&theme=vision-friendly-dark)
 
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aryan2bamane&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryan2bamane&repo=SEM-III&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryan2bamane&repo=SEM-IV&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryan2bamane&repo=SEM-VII&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryan2bamane&repo=SEM-VIII&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
