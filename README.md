@@ -36,28 +36,22 @@ Here are some of the technologies and tools I work with:
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
+<h3 align="center">⚡ Semester-Wise Notes ⚡</h3>
 
-<h3 align="center">⚡ Github Stats ⚡</h3>
-
-
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan2bamane&show_icons=true&theme=vision-friendly-dark)
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aryan2bamane&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryan2bamane&repo=SEM-III&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryan2bamane&repo=SEM-IV&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryan2bamane&repo=SEM-VII&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryan2bamane&repo=SEM-VIII&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+<h3 align="center">⚡ Github Stats ⚡</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aryan2bamane&theme=vision-friendly-dark)](https://git.io/streak-stats)
+
 </div>
 
-<h3 align="center">⚡ Achievements ⚡</h3>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan2bamane" alt="aryan2bamane" /></a> </p>
-
-<p>
 
 <h3 align="center">Show some Support 🤝 by giving Star 🌟 to some of the repositories!</h3>
 </p>
