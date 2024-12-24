@@ -1,5 +1,15 @@
 <p>
-  <h1 align="center"><b>Hello there, I'm Aryan 👋</b></h1>
+  <h1 align="center">Yo!<br> I'm Aryan Bamane 👋</h1>
+</p>
+
+<p>
+  <h3 align="center">Welcome to My GitHub Profile!
+</h3>
+</p>
+<div align="center">
+
+<p> 
+I'm  a Computer Science and Engineering student at D.Y. Patil Technical Campus, Kolhapur. As a passionate learner and aspiring web developer, I have curated a series of repositories on GitHub to organize and share the academic resources I've gathered throughout my studies. 
 </p>
 
 <p align="center">
@@ -9,74 +19,38 @@
 <a href="mailto:aryanbamane2@gmail.com?subject=Yo%Aryan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href="aryan-bamane-portfolio.netlify.app"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 </p>
-<br>
 
+---
 
+<h3 align="center">⚡ Skills & Technologies ⚡</h3>
 
-<div align="center">
+Here are some of the technologies and tools I work with:
 
-### I am a UG CSE student at DYPTC Kolhapur ⚡
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-🔭 I’m currently working on my Portfolio Website using ReactJS
+---
 
-🌱 I’m currently learning JavaScript(ES6) Frameworks🤓
+<h3 align="center">⚡ Github Stats ⚡</h3>
 
-👯 I’m looking to collaborate with other Developers.🫱🏽‍🫲🏽
-
-🥅 2024 Goals: Get myself a better Portfolio
-
-💬 Ask me about anything, I am happy to help 😁
-
-📬 How to reach me: [Let's get in touch!][linkedin]
-
-🧗 I try to: Go beyond and push the bounds
-
-⚡ Fun fact: I love connecting with different people🙋🏽‍♂️
-
-</div>
-<br>
-<div align="center">
-
-<h1 align="center">SKILLS</h1>
-
-<br>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>&nbsp;
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>&nbsp;
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>&nbsp;
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>&nbsp; 
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash"/>&nbsp;
-<img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="Batch"/>&nbsp;
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali"/>&nbsp;
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>&nbsp;
-<img src="https://aleen42.github.io/badges/src/photoshop.svg" width="125" height="27" alt="Photoshop"/>&nbsp;
-</p>
-
-<br>
-<br>
-
-### ⚡ Github Stats
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan2bamane&show_icons=true&theme=vision-friendly-dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aryan2bamane&theme=vision-friendly-dark)](https://git.io/streak-stats)
-<br>
 
 </div>
-<br>
-<h1 align="center">Achievements</h1>
 
-<br>
+<h3 align="center">⚡ Achievements ⚡</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryan2bamane" alt="aryan2bamane" /></a> </p>
 
-<br>
 <p>
 
-<h3 align="center">Show some Support 🤝&nbsp; by giving Star 🌟 to some of the repositories!</h3>
+<h3 align="center">Show some Support 🤝 by giving Star 🌟 to some of the repositories!</h3>
 </p>
-
 <br><p align="center"><img src="./smilingKid.webp" height="200px" /></p>
