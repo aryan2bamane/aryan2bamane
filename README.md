@@ -42,6 +42,9 @@ Here are some of the technologies and tools I work with:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryan2bamane&repo=SEM-III&theme=vision-friendly-dark)](https://github.com/aryan2bamane/SEM-III)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryan2bamane&repo=SEM-IV&theme=vision-friendly-dark)](https://github.com/aryan2bamane/SEM-IV)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kateshweta&repo=SEM-V&theme=vision-friendly-dark)](https://github.com/kateshweta/SEM-V)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kateshweta&repo=SEM-VI&theme=vision-friendly-dark)](https://github.com/kateshweta/SEM-VI)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryan2bamane&repo=SEM-VII&theme=vision-friendly-dark)](https://github.com/aryan2bamane/SEM-VII) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryan2bamane&repo=SEM-VIII&theme=vision-friendly-dark)](https://github.com/aryan2bamane/SEM-VIII)
 
 ---
